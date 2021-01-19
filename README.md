@@ -4,7 +4,7 @@
   
   
 # For Understanding the Project flow
-   I have added an Assignment Documentation_main.xlsx and Assignment flow.xlsx which define the architecture,
+   I have added a Data Model.pdf ,Data Dictionary.pdf and Assignment flow.pdf which define the architecture,
      Project Flow , Data Dictionary in each of the files
       and Technologies used.
 
